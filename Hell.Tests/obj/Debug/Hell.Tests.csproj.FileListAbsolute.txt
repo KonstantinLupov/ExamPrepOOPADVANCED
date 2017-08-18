@@ -1,0 +1,13 @@
+C:\Users\Konstantin\Desktop\Structure%2FAbstraction_Скелет\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Konstantin\Desktop\Structure%2FAbstraction_Скелет\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.Tests.dll
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.Tests.pdb
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.dll
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.pdb
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.exe
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.pdb
+C:\Users\Konstantin\Desktop\Structure\Abstraction_Скелет\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.exe.config
